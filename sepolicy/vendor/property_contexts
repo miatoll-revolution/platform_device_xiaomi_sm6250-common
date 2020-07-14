@@ -27,6 +27,9 @@ vendor.camera.sensor.rearMain.fuseID	u:object_r:vendor_camera_prop:s0
 # Dirac
 persist.audio.dirac                             u:object_r:dirac_prop:s0
 
+# Dolby
+persist.vendor.dolby.loglevel                 u:object_r:vendor_dolby_loglevel_prop:s0
+
 # IR
 ro.lirc.dev				u:object_r:lirc_prop:s0
 
