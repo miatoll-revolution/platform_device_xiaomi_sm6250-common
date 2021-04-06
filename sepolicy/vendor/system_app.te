@@ -1,3 +1,6 @@
+# Applock
+allow system_app default_android_service:service_manager { find };
+
 # Battery Health
 r_dir_file(system_app, sysfs_battery_supply);
 
