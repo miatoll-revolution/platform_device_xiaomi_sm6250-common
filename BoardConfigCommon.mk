@@ -226,7 +226,7 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
 
 # MiuiCamera
--include vendor/xiaomi/miuicamera/BoardConfigAnx.mk
+#-include vendor/xiaomi/miuicamera/BoardConfigAnx.mk
 
 # Inherit proprietary blobs
 -include vendor/xiaomi/sm6250-common/BoardConfigVendor.mk
