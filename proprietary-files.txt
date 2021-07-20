@@ -575,6 +575,12 @@ vendor/etc/diracmobile.config
 vendor/lib/libDiracAPI_SHARED.so
 vendor/lib/soundfx/libdirac.so
 
+# Display (HWC)
+system_ext/lib/libdisplayconfig.qti.so
+system_ext/lib64/libdisplayconfig.qti.so
+vendor/lib/libdisplayconfig.qti.so
+vendor/lib64/libdisplayconfig.qti.so
+
 # DPM
 system_ext/bin/dpmd
 system_ext/etc/dpm/dpm.conf
